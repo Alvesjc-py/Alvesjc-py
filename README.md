@@ -6,10 +6,6 @@ Trabalho: Dev full stack php na Oficina do Estudante
 
 <img  align="center" alt="PHP" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" /><img  align="center" alt="JAVASCRIPT" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" /><img  align="center" alt="HTML" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" /><img  align="center" alt="CSS" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" /><img align="center" alt="MYSQL" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg" />
 
-![João Carlos Alves Github Stats](https://readme-stats.clckblog.space/api?username=Alvesjc-py&show_icons=true&theme=dracula)
-
-
-
 ## 📫 Contato
 - Email: joacps33@gmail.com
 - LinkedIn: https://linkedin.com/in/joão-carlos-alves-027816206/
