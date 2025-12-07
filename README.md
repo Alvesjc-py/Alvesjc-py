@@ -1,16 +1,19 @@
-## Hi there 👋
+# 👋 Bem-vindo ao meu GitHub
 
-<!--
-**Alvesjc-py/Alvesjc-py** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Sou [Seu Nome] — desenvolvedor(a) focado(a) em construção de aplicações web, automações e ferramentas open-source. Aqui você encontra projetos, demos e scripts úteis.
 
-Here are some ideas to get you started:
+[![Status do Projeto](https://img.shields.io/badge/status-active-brightgreen.svg)](https://github.com/seu-usuario)
+[![License](https://img.shields.io/badge/license-MIT-blue.svg)](LICENSE)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🔭 O que tem aqui
+- Projetos web (React / Next.js)
+- APIs e automações (Node.js / Python)
+- Ferramentas de linha de comando
+
+## 💬 Como contribuir
+1. Fork → 2. Crie uma branch → 3. Abra um PR  
+Abra uma issue antes se for uma mudança grande.
+
+## 📫 Contato
+- Email: seu.email@exemplo.com
+- LinkedIn: https://linkedin.com/in/seuusuario
