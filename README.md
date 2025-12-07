@@ -1,6 +1,6 @@
 # 👋 Bem-vindo ao meu GitHub
 
-Sou [Seu Nome] — desenvolvedor(a) focado(a) em construção de aplicações web, automações e ferramentas open-source. Aqui você encontra projetos, demos e scripts úteis.
+Sou João Carlos Alves — desenvolvedor(a) focado(a) em construção de aplicações web, automações e ferramentas open-source. Aqui você encontra projetos, demos e scripts úteis.
 
 ## 🔭 O que tem aqui
 - Projetos web (Html / css / php / javascript / mysql)
