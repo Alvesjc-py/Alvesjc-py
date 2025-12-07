@@ -1,4 +1,4 @@
-<center><h2> Bem Vindo ao meu Github👋 </h2></center>
+<center align="center"><h2> Bem Vindo ao meu Github👋 </h2></center>
 
 Name: João Carlos Alves
 Formação:  Ciencia da computação - Unip  
