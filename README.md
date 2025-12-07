@@ -1,10 +1,20 @@
-<center><h2> Bem Vindo ao meu Github João Carlos Alves 👋 </h2></center>
+<center><h2> Bem Vindo ao meu Github👋 </h2></center>
 
-Sou João Carlos Alves — desenvolvedor focado em construção de aplicações web, automações e ferramentas. Aqui você encontra projetos, demos e scripts úteis.
+Name: Me! chamdo João Carlos Alves
+:mortar_board:  Ciencia da computação - Unip  
+:work: Dev full stack php
 
-## 🔭 O que tem aqui
-- Projetos web (Html / css / php / javascript / mysql)
-- Saas (Html / css / php / javascript / mysql)
+<div align="center">
+<div style="display: inline_block"><br>
+<img align="center" alt="Aline-Java" height="40" width="50" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/php">
+<img align="center" alt="Aline-Js" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
+<img align="center" alt="Aline-HTML" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
+<img align="center" alt="Aline-CSS" height="40" width="50" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
+</div>
+
+<br>
+
+
 
 ## 📫 Contato
 - Email: joacps33@gmail.com
