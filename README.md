@@ -8,4 +8,4 @@ Sou João Carlos Alves — desenvolvedor focado em construção de aplicações 
 
 ## 📫 Contato
 - Email: joacps33@gmail.com
-- [LinkedIn] https://linkedin.com/in/joão-carlos-alves-027816206/
+- [LinkedIn] (https://linkedin.com/in/joão-carlos-alves-027816206/)
