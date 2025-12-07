@@ -1,8 +1,8 @@
 <center><h2> Bem Vindo ao meu Github👋 </h2></center>
 
-Name: Me! chamdo João Carlos Alves
-:mortar_board:  Ciencia da computação - Unip  
-:work: Dev full stack php
+Name: João Carlos Alves
+Formação:  Ciencia da computação - Unip  
+Trabalho: Dev full stack php na Oficina do Estudante
 
 <div align="center">
 <div style="display: inline_block"><br>
