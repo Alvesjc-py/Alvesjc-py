@@ -1,6 +1,6 @@
-<center><h2> Bem Vindo ao meu Github👋 </h2></center>
+## Bem Vindo ao meu Github👋
 
-Name: João Carlos Alves
+Name: João Carlos Alves  
 Formação:  Ciencia da computação - Unip  
 Trabalho: Dev full stack php na Oficina do Estudante
 
