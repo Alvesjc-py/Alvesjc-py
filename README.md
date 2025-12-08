@@ -9,6 +9,5 @@ Trabalho: Dev full stack php na Oficina do Estudante
 
 ## 📫 Contato
 - Email: joacps33@gmail.com
-- LinkedIn: https://linkedin.com/in/joão-carlos-alves-027816206/
 
 
