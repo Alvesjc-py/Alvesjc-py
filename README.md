@@ -15,14 +15,6 @@ Dev Full Stack PHP · Ciência da Computação @ UNIP · Oficina do Estudante
 
 ---
 
-## 📊 Estatísticas do GitHub
-
-| Stats | Linguagens |
-|-------|-----------|
-| ![Stats](https://github-readme-stats.vercel.app/api?username=Alvesjc-py&show_icons=true&theme=github_dark&hide_border=true&count_private=true) | ![Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Alvesjc-py&layout=compact&theme=github_dark&hide_border=true) |
-
----
-
 ## 📫 Contato
 
 [![Gmail](https://img.shields.io/badge/Gmail-joacps33@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joacps33@gmail.com)
