@@ -10,11 +10,11 @@ Dev Full Stack PHP · Ciência da Computação @ UNIP · Oficina do Estudante
 ## 🛠 Tecnologias & Ferramentas
 
 | PHP | JavaScript | HTML5 | CSS3 | MySQL | Laravel |
-|-----|-----------|-------|------|-------|
+|-----|-----------|-------|------|-------|---------|
 | <img alt="PHP" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg"/> | <img alt="JavaScript" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg"/> | <img alt="HTML5" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg"/> | <img alt="CSS3" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg"/> | <img alt="MySQL" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original-wordmark.svg"/> | <img alt="Laravel" height="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/laravel/laravel-original.svg"/> |
 
 ---
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-joacps33@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joacps33@gmail.com)
+[![Gmail](https://img.shields.io/badge/Gmail-joacps33@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joacps
