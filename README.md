@@ -17,4 +17,4 @@ Dev Full Stack PHP · Ciência da Computação @ UNIP · Oficina do Estudante
 
 ## 📫 Contato
 
-[![Gmail](https://img.shields.io/badge/Gmail-joacps33@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joacps
+[![Gmail](https://img.shields.io/badge/Gmail-joacps33@gmail.com-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:joacps33@gmail.com)
